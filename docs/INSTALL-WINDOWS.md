@@ -2,7 +2,7 @@
 
 ## Скачать
 
-Перейдите в [GitHub Releases](https://github.com/DrowzyX/LocalPDFDesk/releases) и выберите файл **LocalPDFDesk-1.3-cryptopro.exe** (когда он появится в релизе).
+[Скачать ZIP для Windows 10/11 x64](https://github.com/DrowzyX/LocalPDFDesk/releases/download/v1.3.0/LocalPDFDesk-Windows-v1.3.zip). Распакуйте архив, извлеките `LocalPDFDesk-1.3-cryptopro.exe` и запустите его.
 
 Это портативный Windows EXE. Скачайте его в любую папку и запустите двойным щелчком. Для просмотра и обычного редактирования PDF интернет не нужен.
 
