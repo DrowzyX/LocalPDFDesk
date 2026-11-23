@@ -2,14 +2,15 @@
 
 > **Pre-release / тестовая версия.** Не все платформы прошли испытания. Совместимость на Astra Linux и работа с реальным Рутокеном не подтверждены.
 
-## Скачать
+## Скачать — опубликованный релиз v1.3.0
 
-| Платформа | Файл релиза | Статус |
+| Платформа | Прямая ссылка | Содержимое |
 |---|---|---|
-| Windows 10/11 x64 | `LocalPDFDesk-1.3-cryptopro.exe` | Предварительная сборка, без установки Python |
-| Astra Linux, Debian, Ubuntu | `localpdf-desk_1.3-1_all.deb` | Пробный DEB; системные зависимости устанавливаются отдельно |
-| ALT Linux, РЕД ОС, другие Linux | `LocalPDFDesk-linux-1.3.tar.gz` | Архив исходников с оболочкой запуска, не автономный бинарник |
-| Исходники | `LocalPDFDesk-1.3-GitHub-source.zip` | Исходный код, тесты, инструкции |
+| Windows 10/11 x64 | [Скачать Windows ZIP](https://github.com/DrowzyX/LocalPDFDesk/releases/download/v1.3.0/LocalPDFDesk-Windows-v1.3.zip) | Портативный EXE и инструкция |
+| Astra Linux | [Скачать Astra ZIP](https://github.com/DrowzyX/LocalPDFDesk/releases/download/v1.3.0/LocalPDFDesk-AstraLinux-v1.3-preview.zip) | Тестовый DEB и инструкция; зависимости отдельно |
+| ALT Linux, РЕД ОС, другие Linux | [Скачать Linux ZIP](https://github.com/DrowzyX/LocalPDFDesk/releases/download/v1.3.0/LocalPDFDesk-Linux-Other-v1.3-preview.zip) | Универсальный архив исходников и запуска |
+
+[Все материалы релиза](https://github.com/DrowzyX/LocalPDFDesk/releases/tag/v1.3.0)
 
 ## Возможности
 
@@ -28,14 +29,3 @@ PDF viewer/editor, поворот и обрезка страниц, объеди
 - Электронная подпись юридически значимого документа требует независимой проверки. Наличие графической плашки не означает криптографическую действительность.
 - OCR и сжатие сканов могут снижать качество изображения. Сохраняйте оригиналы документов.
 
-## Публикация
-
-**Tag:** `v1.3.0`
-
-**Release title:** `LocalPDF Desk 1.3 — Windows & Linux Preview`
-
-**Pre-release:** ✅ включить.
-
-Загрузите четыре файла в блок **Attach binaries** и при наличии добавьте `LocalPDFDesk-SHA256SUMS.txt`. Сохраните кнопкой **Publish release**.
-
-Это текст для релиза, а **не свидетельство того, что релиз уже опубликован**.
