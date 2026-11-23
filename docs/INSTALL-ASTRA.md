@@ -4,12 +4,11 @@
 
 ## 1. Как скачать
 
-Перейдите на [страницу релизов](https://github.com/DrowzyX/LocalPDFDesk/releases), когда релиз будет опубликован, и выберите:
+[Скачать ZIP для Astra Linux](https://github.com/DrowzyX/LocalPDFDesk/releases/download/v1.3.0/LocalPDFDesk-AstraLinux-v1.3-preview.zip) — опубликованный тестовый пакет.
 
-- `localpdf-desk_1.3-1_all.deb` — тестовый пакет и ярлык программы.
-- `LocalPDFDesk-linux-1.3.tar.gz` — универсальный архив для ручного запуска.
+Распакуйте ZIP и найдите внутри `localpdf-desk_1.3-1_all.deb`. Устанавливайте именно вложенный DEB, **не ZIP-файл**. Для ручного запуска через универсальный архив можно скачать [версию для других Linux](https://github.com/DrowzyX/LocalPDFDesk/releases/download/v1.3.0/LocalPDFDesk-Linux-Other-v1.3-preview.zip), где находится `LocalPDFDesk-linux-1.3.tar.gz`.
 
-Если файлы не опубликованы в разделе Releases, они пока доступны только в комплекте, переданном автору проекта; не считайте кнопку на GitHub действующей загрузкой.
+Пакет не автономный: необходимы поддерживаемый Python, Tkinter и библиотеки, перечисленные ниже. Совместимость с конкретным выпуском Astra Linux пока не подтверждена.
 
 ## 2. Проверьте систему
 
