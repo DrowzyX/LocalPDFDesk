@@ -4,15 +4,19 @@
 
 ![Version](https://img.shields.io/badge/version-1.3_preview-orange) ![Windows](https://img.shields.io/badge/Windows-x64-blue) ![Astra](https://img.shields.io/badge/Astra_Linux-DEB_preview-orange)
 
-## Выбери свою операционную систему
+## 📥 Скачать для своей ОС
 
-| Система | Загрузка | Установка |
-|---|---|---|
-| 🪟 **Windows 10/11 x64** | [Открыть загрузки Windows](https://github.com/DrowzyX/LocalPDFDesk/releases) | [Инструкция для Windows](docs/INSTALL-WINDOWS.md) |
-| 🐧 **Astra Linux** | [Открыть загрузки Astra Linux](https://github.com/DrowzyX/LocalPDFDesk/releases) | [Пошаговая установка Astra Linux](docs/INSTALL-ASTRA.md) |
-| 🐧 **ALT Linux, РЕД ОС и другие Linux** | [Архивы и сборки](https://github.com/DrowzyX/LocalPDFDesk/releases) | [Инструкция для других Linux](docs/INSTALL-LINUX.md) |
+> **GitHub Releases пока не заполнен файлами:** после публикации ниже появятся отдельные пакеты по платформам. Сейчас отдельные архивы подготовлены вне GitHub. Не принимайте ссылки на инструкции за прямые ссылки на скачивание.
 
-> ⚠️ **На GitHub Releases ещё не прикреплены установочные файлы.** Ссылки ведут на страницу релизов, которую нужно заполнить. Пока нельзя утверждать, что Windows EXE и Astra DEB можно скачать прямо с GitHub. Подготовленные файлы существуют отдельно в комплекте автора.
+| Выберите платформу | Файл для скачивания | Инструкция |
+|:--|:--|:--|
+| 🪟 **Windows 10 / 11 (x64)** | `LocalPDFDesk-Windows-v1.3.zip` — портативный EXE | [Установка Windows](docs/INSTALL-WINDOWS.md) |
+| 🇷🇺 **Astra Linux** | `LocalPDFDesk-AstraLinux-v1.3-preview.zip` — тестовый DEB | [Установка Astra Linux](docs/INSTALL-ASTRA.md) |
+| 🐧 **ALT Linux, РЕД ОС и другие** | `LocalPDFDesk-Linux-Other-v1.3-preview.zip` — архив исходников и запуск | [Установка других Linux](docs/INSTALL-LINUX.md) |
+
+**[Открыть раздел загрузок GitHub Releases](https://github.com/DrowzyX/LocalPDFDesk/releases)**
+
+**Важно:** Linux-пакеты не автономные и не прошли проверку на перечисленных дистрибутивах. Сначала ознакомьтесь с инструкцией. Модуль КриптоПро/Рутокен сейчас доступен только в экспериментальной Windows-версии.
 
 ### Что именно скачивать
 
