@@ -2,6 +2,8 @@
 
 Поддержка пока экспериментальная; подготовлены исходники, универсальный архив и шаблон RPM. Завершённых, испытанных пакетов для ALT Linux, РЕД ОС и CentOS Stream пока нет.
 
+[⬇️ Скачать архив для других Linux](https://github.com/DrowzyX/LocalPDFDesk/releases/download/v1.3.0/LocalPDFDesk-Linux-Other-v1.3-preview.zip) — ZIP с универсальным `.tar.gz` и инструкцией. Сначала распакуйте ZIP, затем вложенный `.tar.gz`.
+
 ## Debian / Ubuntu
 
 Проверьте, что Python не ниже 3.10:
