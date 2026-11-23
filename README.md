@@ -6,23 +6,23 @@
 
 ## 📥 Скачать для своей ОС
 
-> **GitHub Releases пока не заполнен файлами:** после публикации ниже появятся отдельные пакеты по платформам. Сейчас отдельные архивы подготовлены вне GitHub. Не принимайте ссылки на инструкции за прямые ссылки на скачивание.
+**Релиз v1.3.0 опубликован на GitHub.** Скачивайте архив для своей операционной системы по прямой ссылке ниже.
 
 | Выберите платформу | Файл для скачивания | Инструкция |
 |:--|:--|:--|
-| 🪟 **Windows 10 / 11 (x64)** | `LocalPDFDesk-Windows-v1.3.zip` — портативный EXE | [Установка Windows](docs/INSTALL-WINDOWS.md) |
-| 🇷🇺 **Astra Linux** | `LocalPDFDesk-AstraLinux-v1.3-preview.zip` — тестовый DEB | [Установка Astra Linux](docs/INSTALL-ASTRA.md) |
-| 🐧 **ALT Linux, РЕД ОС и другие** | `LocalPDFDesk-Linux-Other-v1.3-preview.zip` — архив исходников и запуск | [Установка других Linux](docs/INSTALL-LINUX.md) |
+| 🪟 **Windows 10 / 11 (x64)** | [⬇️ Скачать Windows ZIP](https://github.com/DrowzyX/LocalPDFDesk/releases/download/v1.3.0/LocalPDFDesk-Windows-v1.3.zip) — портативный EXE | [Установка Windows](docs/INSTALL-WINDOWS.md) |
+| 🇷🇺 **Astra Linux** | [⬇️ Скачать Astra Linux ZIP](https://github.com/DrowzyX/LocalPDFDesk/releases/download/v1.3.0/LocalPDFDesk-AstraLinux-v1.3-preview.zip) — тестовый DEB | [Установка Astra Linux](docs/INSTALL-ASTRA.md) |
+| 🐧 **ALT Linux, РЕД ОС и другие** | [⬇️ Скачать Linux ZIP](https://github.com/DrowzyX/LocalPDFDesk/releases/download/v1.3.0/LocalPDFDesk-Linux-Other-v1.3-preview.zip) — исходники и скрипты | [Установка других Linux](docs/INSTALL-LINUX.md) |
 
-**[Открыть раздел загрузок GitHub Releases](https://github.com/DrowzyX/LocalPDFDesk/releases)**
+**[Все файлы релиза v1.3.0](https://github.com/DrowzyX/LocalPDFDesk/releases/tag/v1.3.0)**
 
 **Важно:** Linux-пакеты не автономные и не прошли проверку на перечисленных дистрибутивах. Сначала ознакомьтесь с инструкцией. Модуль КриптоПро/Рутокен сейчас доступен только в экспериментальной Windows-версии.
 
 ### Что именно скачивать
 
-- **Windows** — `LocalPDFDesk-1.3-cryptopro.exe`. Портативная программа для Windows x64, без установки Python.
-- **Astra Linux** — `localpdf-desk_1.3-1_all.deb`. **Тестовый пакет-оболочка**, устанавливает исходники и ярлык. Требует отдельно установить подходящий Python (не ниже 3.10), Tkinter и Python-библиотеки. Это **не автономный офлайн-DEB**.
-- **Другие Linux** — `LocalPDFDesk-linux-1.3.tar.gz`. Распаковать архив, установить зависимости и запустить `bash linux/localpdf-desk`.
+- **Windows** — скачайте ZIP по кнопке выше, распакуйте и запустите вложенный `LocalPDFDesk-1.3-cryptopro.exe`. Портативная программа для Windows x64, без установки Python.
+- **Astra Linux** — скачайте ZIP по кнопке выше, распакуйте и установите вложенный `localpdf-desk_1.3-1_all.deb`. **Тестовый пакет-оболочка**, устанавливает исходники и ярлык. Требует отдельно установить подходящий Python (не ниже 3.10), Tkinter и Python-библиотеки. Это **не автономный офлайн-DEB**.
+- **Другие Linux** — скачайте ZIP по кнопке выше, распакуйте вложенный `LocalPDFDesk-linux-1.3.tar.gz`. Распаковать архив, установить зависимости и запустить `bash linux/localpdf-desk`.
 
 ## Возможности
 
